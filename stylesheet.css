@@ -1,0 +1,101 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.navbar {
+    padding: 5px;  
+    background-color: #36013f;
+}
+
+.navbar-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    
+}
+
+.navbar-nav li {
+    padding-left: 80px;
+  
+}
+
+.nav-link {
+    font-size: 30px;
+    color: white;
+}
+
+.carousel-inner img {
+    width: 50%;
+    height: 50%;
+    opacity: 0.5;
+}
+
+.carousel-caption {
+    position:absolute;
+}
+
+.carousel-caption h1 {
+    color:#36013f;
+    font-size: 40px;
+    font-weight: 300;
+
+}
+
+.carousel-caption h3 {
+    color: #36013f;
+}
+
+
+
+.motto {
+    font-size: 40px;   
+}
+
+.gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+
+footer {
+    background-color: #36013f
+}
+
+.imgft img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.social ul li {
+    list-style: none;
+}
+
+
+.social a {
+    font-size: 30px;
+    padding: 24px;
+    color: white;
+}
+
+.contact h5 {
+    font-size: 40px;
+    color: white
+
+}
+
+.contact p {
+    text-align: left;
+    font-size: 16px;
+    color: white;
+}
+
+.copyright p {
+    font-size: 30px;
+    color: white;
+}
+
